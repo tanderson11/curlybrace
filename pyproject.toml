@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "matplotlib_curly_brace"
+name = "curlybrace"
 version = "0.1.0"
 description = ""
 authors = ["Thayer <tanderson11@gmail.com>"]
